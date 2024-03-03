@@ -1,0 +1,6 @@
+Docker ID and Image: sseukapd/predict-app
+error: failed to create deployment: deployments.apps "predict-app" already exists
+NAME                           READY   STATUS    RESTARTS   AGE
+predict-app-7955677974-rmfhh   1/1     Running   0          76s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
