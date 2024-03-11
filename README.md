@@ -19,8 +19,6 @@ Use a pre-trained, `sklearn` model that has been trained to predict housing pric
 * Deploy a container using Kubernetes and make a prediction
 * Upload a complete Github repo with CircleCI to indicate that the code has been tested
 <br>
-<br>
-<br>
 
 ## Setup and Run
 
